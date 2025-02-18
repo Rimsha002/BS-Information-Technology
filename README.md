@@ -1,7 +1,7 @@
 # BS Information Technology
 ## 🎓 My BS-Degree Repository
 
-Welcome to my BSIT Degree repository! This serves as a well-organized collection of all coursework, including lecture notes and lab materials, structured semester-wise and subject-wise for easy access.
+### Welcome to my BSIT Degree repository! This serves as a well-organized collection of all coursework, including lecture notes and lab materials, structured semester-wise and subject-wise for easy access. This repository contains materials from Punjab University College of Information Technology (PUCIT).
 ---
 
 ## 📂 Repository Structure
