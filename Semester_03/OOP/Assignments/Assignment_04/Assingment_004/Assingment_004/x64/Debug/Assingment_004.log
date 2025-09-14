@@ -1,0 +1,20 @@
+﻿  Car.cpp
+  main.cpp
+  Motorcycle.cpp
+  Truck.cpp
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Motorcycle.cpp(11,18): error C2084: function 'void Motorcycle::display_info(void)' already has a body
+  D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Motorcycle.h(16,7):
+  see previous definition of 'display_info'
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Truck.cpp(11,13): error C2084: function 'void Truck::display_info(void)' already has a body
+  D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Truck.h(15,7):
+  see previous definition of 'display_info'
+  
+  Vehicle.cpp
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Vehicle.cpp(5,10): error C2084: function 'Vehicle::Vehicle(std::string,std::string,int,double)' already has a body
+  D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Vehicle.h(16,2):
+  see previous definition of '{ctor}'
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Vehicle.cpp(21,1): error C2059: syntax error: '}'
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assingment_004\Vehicle.cpp(21,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

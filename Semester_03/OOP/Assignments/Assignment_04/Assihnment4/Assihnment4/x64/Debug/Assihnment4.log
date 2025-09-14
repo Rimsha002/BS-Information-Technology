@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\main.cpp(100,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\main.cpp(105,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\main.cpp(110,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assihnment4.vcxproj -> D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\x64\Debug\Assihnment4.exe

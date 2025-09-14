@@ -1,0 +1,18 @@
+
+Library Name: pucit library
+Library Address: pUCIT
+	~~~ Books ~~
+Book no. 1
+Title: OOP
+Auther: Waqar
+Publisher name: narkali
+Publication year: 1980
+Status: availab;e
+ISBN: 1
+Book no. 2
+Title: C++ by me
+Auther: Rimsha
+Publisher name: Home
+Publication year: 2020
+Status: Checked
+ISBN: 2

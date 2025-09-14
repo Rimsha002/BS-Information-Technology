@@ -1,0 +1,11 @@
+Student name: rimsha
+Student ID: 21
+Student GPA: 2
+pf, 
+opp, 
+Student name: areeba
+Student ID: 12
+Student GPA: 2
+isl, 
+pak, 
+scien, 

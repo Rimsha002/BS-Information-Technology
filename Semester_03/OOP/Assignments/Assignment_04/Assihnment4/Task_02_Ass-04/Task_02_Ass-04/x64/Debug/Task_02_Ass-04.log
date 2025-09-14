@@ -1,0 +1,74 @@
+﻿  Person.cpp
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(16,7): error C3646: 'dateOfBirth': unknown override specifier
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(16,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(25,64): error C2061: syntax error: identifier 'Date'
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(35,22): error C2061: syntax error: identifier 'Date'
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(44,7): error C3646: 'getDateOfBirth': unknown override specifier
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(44,21): error C2059: syntax error: '('
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(44,23): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Person.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(11,2): error C2065: 'dateOfBirth': undeclared identifier
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(11,16): error C3861: 'Date': identifier not found
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(17,71): error C2061: syntax error: identifier 'Date'
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(23,8): error C2039: 'dateOfBirth': is not a member of 'Person'
+  D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(8,7):
+  see declaration of 'Person'
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(23,22): error C2065: 'dateOfBirth': undeclared identifier
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(28,24): error C2065: 'fatherName': undeclared identifier
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(29,24): error C2065: 'motherName': undeclared identifier
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(39,2): error C2065: 'dateOfBirth': undeclared identifier
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(39,23): error C2039: 'dateOfBirth': is not a member of 'Person'
+  D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(8,7):
+  see declaration of 'Person'
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(64,34): error C2761: 'void Person::setDateOfBirth(void)': redeclaration of member is not allowed
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(64,29): error C2065: 'Date': undeclared identifier
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(64,34): error C2146: syntax error: missing ')' before identifier 'dateOfBirth'
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(65,1): error C2143: syntax error: missing ';' before '{'
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(65,1): error C2447: '{': missing function header (old-style formal list?)
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(94,14): error C2039: 'getDateOfBirth': is not a member of 'Person'
+  D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(8,7):
+  see declaration of 'Person'
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(94,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(94,14): error C2146: syntax error: missing ';' before identifier 'getDateOfBirth'
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(95,1): error C2143: syntax error: missing ';' before '{'
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(95,1): error C2447: '{': missing function header (old-style formal list?)
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.cpp(115,31): error C2065: 'dateOfBirth': undeclared identifier
+  main.cpp
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(16,7): error C3646: 'dateOfBirth': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(16,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(25,64): error C2061: syntax error: identifier 'Date'
+  (compiling source file 'main.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(35,22): error C2061: syntax error: identifier 'Date'
+  (compiling source file 'main.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(44,7): error C3646: 'getDateOfBirth': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(44,21): error C2059: syntax error: '('
+  (compiling source file 'main.cpp')
+  
+D:\BSIT\3rd Semester\OPPs\Labs\Assignment_04\Assihnment4\Task_02_Ass-04\Person.h(44,23): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
